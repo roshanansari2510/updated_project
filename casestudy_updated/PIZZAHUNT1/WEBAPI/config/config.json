@@ -1,0 +1,19 @@
+{
+
+  "development": {
+
+    "username": "postgres",
+
+    "password": "root",
+
+    "database": "dev_pizzadb",
+
+    "host": "localhost",
+
+    "dialect": "postgres",
+
+    "port" : 5432
+
+  }
+
+}
